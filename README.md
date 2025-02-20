@@ -1,16 +1,23 @@
-# flutter_application_1
+# Swaply
+Swaply is a swapping platform that allows users to exchange items seamlessly, connecting people who want to trade their belongings in a user-friendly and efficient way.
 
-A new Flutter project.
+---
 
-## Getting Started
+## Motivation
+In a world filled with unused items, Swaply aims to provide a sustainable solution by encouraging people to trade instead of discard. The app helps users find value in the things they no longer need while enabling them to acquire new items without monetary transactions. Swaply fosters a culture of sharing, sustainability, and community connections.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Core Features
+- **Browse Items**: Explore a wide range of items available for swapping around your location.
+- **Add Items**: List items you want to swap with photos, descriptions, and categories.
+- **Request Swaps**: Send and receive swap requests with an intuitive interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Complementary Features
+- **User Profiles**: Create a customizable profile to showcase your swapping preferences and history.
+- **Real-Time Chat**: Communicate with other users to negotiate and finalize swaps.
+- **Ratings and Reviews**: Build trust in the community through user ratings and feedback.
+- **Search and Filters**: Find items easily with advanced search and filtering options.
+- **Notifications**: Stay updated with notifications for swap requests and messages.
